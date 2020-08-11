@@ -1,13 +1,14 @@
-## Welcome to GitHub Pages
+## たこxyzのGitHub Pageへようこそ
 
-You can use the [editor on GitHub](https://github.com/tako-xyz/tako-xyz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+GitHub Pageでお試しでページを作ってみました。  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 自己紹介
 
-### Markdown
+私は都内IT企業でSIerやってるエンジニアです。  
+ブログはこちらなのでよかったら見てってください。  
+https://tako-xyz.com/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+以降は未編集です。
 ```markdown
 Syntax highlighted code block
 
